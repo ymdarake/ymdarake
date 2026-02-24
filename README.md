@@ -11,5 +11,3 @@
   - Fun of https://www.youtube.com/@awesomekling
 - 🌱 Learning [Godot Engine](https://godotengine.org/).
 - 📫 Open an issue to reach me on [my website's repo](https://github.com/ymdarake/ymdarake.github.io/issues/new)
-
-[Read more on my website](https://ymdarake.github.io)
